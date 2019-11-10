@@ -19,7 +19,7 @@ python3 Main.py
 ```
 
 ## Easter egg
-Types "MLG" before a race starts to toggle the easter-egg mode. (Rather don't try it if you are epileptic)
+Type "MLG" before a race starts to toggle the easter-egg mode. (Rather don't try it if you are epileptic)
 
 ## Author
 **Ralph McDougall** - [GitHub](https://github.com/RalphMcDougall)
