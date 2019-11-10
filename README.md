@@ -7,8 +7,19 @@ experience, your sound should be on. To reset the game, press the "R" key.
 
 ![During race](readme_images/InRace.png?raw=true "During race")
 
+## Getting started
+This project requires Pygame to be installed. This can be done on Ubuntu with:
+```
+sudo apt-get install pygame
+```
+
+To run the project, open a terminal in the folder and run:
+```
+python3 Main.py
+```
+
 ## Easter egg
-Types "MLG" before a race starts to toggle the easter-egg mode.
+Types "MLG" before a race starts to toggle the easter-egg mode. (Rather don't try it if you are epileptic)
 
 ## Author
 **Ralph McDougall** - [GitHub](https://github.com/RalphMcDougall)
